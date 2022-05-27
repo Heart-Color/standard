@@ -1,33 +1,35 @@
-# סטנדרט צבעי הלבבות
+# Heart Color Standard
 
-אהבה באה בהרבה גוונים. כמענה לכך, מוגדרים בסטנדרט היוניקוד (ובמקלדת) כמה אימוג׳ים המבטאים אהבה. לרבים מהם ניתן לייחס משמעות מסוימת לפי הגרפיקה שלהם.  
-לקבוצה מסוימת של לבבות אימוג׳י אנו נוטים להקנות אותה המשמעות, ולא מבדילים בין איבר אחד בה לאחר; זוהי הקבוצה {⁦❤️⁩,🧡,💛,💚,💙,💜,⁦🤎,🖤,🤍,♥️⁩}.  
-סטנדרט זה, *סטנדרט צבעי הלבבות*, מקנה משמעות מסוימת לכל אחד מאיברי הקבוצה הזאת, ובכך מאפשר התבטאות עשירה יותר ומדוייקת יותר בין מתכתבים המשתמשים בסטנדרט.
+In other languages: [עברית](README.heb.md)
 
-עבור כל אחת מהשורות הבאות, "הלב [אימוג׳י] הוא לב [...]":
-- ⁦❤️⁩ אהבה כללית
-- 🧡 אהבה רומנטית
-- 💛 אהבה חברית
-- 💚 אהבה משפחתית
-- 💙 אהבה אבסטרקטית
-- 💜 עבור משחקי מילים
-- 🤎  אהבה מינית
-- 🖤 אהבה צינית
-- 🤍 אהבה אמפטית
-- ⁦♥️⁩ קלפים
+Love comes in many shades. In response, the Unicode standard (and keyboards) define several emojis conveying love. Many of them can be given meaning by their graphical appearance.
+A specific set of heart emojis tend to be assigned the same meaning and undifferentiated; This is the set {❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,♥️}.
+This standard, the *Heart Color standard*, assigns a specific meaning to each element of this set, hereby enabling richer and more precise expression between communication participants using the standard.
 
-## דוגמאות
+For each of the following lines, "A [emoji] heart is a [...] heart":
+- ❤️ general love
+- 🧡 romantic love
+- 💛 friendly love
+- 💚 familial love
+- 💙 abstract love
+- 💜 word play
+- 🤎  sexual love
+- 🖤 cynical love
+- 🤍 empathetic love
+- ♥️ card suit
 
-- יוליה שלי, אהבת חיי! 🧡
-- הבאת מים? אין עליך 💛
-- איזה מתוק אח שלי 💚
-- שתיתי קפה 💙
-- שימו 💜
-- מראה משהו משהו 🤎
-- תודה על חוסר ההתחשבות 🖤
-- משתתף בצערך 🤍
-- קיבלתי ⁦♥️⁩5
+# Examples
+
+- Oh, baby, the love of my life 🧡
+- Can I have some water? You're the best 💛
+- My dear grandkids 💚
+- I had some coffee 💙
+- This is the 💜 of the city
+- Looking hot 🤎
+- Thanks for the lack of consideration 🖤
+- I'm sorry for your loss 🤍
+- I got a ♥️5
 
 ---
 
-למען הסר ספק, מסמך זה אינו רשמי בשום צורה וכותביו אינם מזוהים בשום אופן עם Unicode Consortium או עם גופים אחרים רלוונטיים.
+For the avoidance of doubt, this document is totally unofficial and its authors are in no way affiliated with the Unicode Consortium or any other relevant body.
