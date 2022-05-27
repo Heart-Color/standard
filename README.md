@@ -21,7 +21,7 @@ For each of the following lines, "A [emoji] heart is a [...] heart":
 # Examples
 
 - Oh, baby, the love of my life 🧡
-- Can I have some water? You're the best 💛
+- Can I have some water? Thanks, you're the best 💛
 - My dear grandkids 💚
 - I had some coffee 💙
 - This is the 💜 of the city
