@@ -25,7 +25,7 @@ For each of the following lines, "A [emoji] heart is a [...] heart":
 - My dear grandkids 💚
 - I had some coffee 💙
 - This is the 💜 of the city
-- Looking hot 🤎
+- See you tonight baby 🤎
 - Thanks for the lack of consideration 🖤
 - I'm sorry for your loss 🤍
 - I got a ♥️5
